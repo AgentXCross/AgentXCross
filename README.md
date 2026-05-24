@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey there, I'm Michael!
+**Computer Science + Digital Hardware @ UWaterloo || ML Research Assistant @ SickKids || Varsity XC Athlete**
 
-<!--
-**AgentXCross/AgentXCross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interested in:
+- Embedded systems & firmware
+- Computer Vision
+- Machine Learning for Scientific Applications
+  
+### Tech Stack
+`C++` `C` `Python` `Typscript` `PyTorch` `OpenCV` `React` `SQL` `scikit-learn` `Pandas` `Numpy`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+[LinkedIn](https://www.linkedin.com/in/michael-liu-522804366/) • [Email](mailto:m529liu@uwaterloo.ca) • [Personal Website](www.michaelliuml.ca)
