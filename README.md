@@ -8,7 +8,7 @@
 
 - ⚡ Embedded Systems & Firmware
 - 👁️ Computer Vision
-- 🤖🧬 Machine Learning for Scientific Applications
+- 🤖 Machine Learning for Scientific Applications
 
 ## 🛠️ Tech Stack
 
