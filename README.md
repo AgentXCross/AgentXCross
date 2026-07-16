@@ -1,42 +1,48 @@
 # 👋 Hey there, I'm Michael!
 
-#### Computer Science + Digital Hardware @ University of Waterloo  
-#### ML Research Assistant @ SickKids  
-#### Varsity Cross-Country Athlete  
+### 📚 CS @ University of Waterloo  
+### 🧬 ML Research Assistant @ SickKids  
+### 🏃‍♂️ Varsity Cross-Country Athlete @ University of Waterloo  
 
-## 🧠 My Interests
+## My Interests
 
-- ⚡ Embedded Systems & Firmware
-- 👁️ Computer Vision
 - 🤖 Machine Learning
+- 👁️ Computer Vision
+- ⚡ Embedded Systems
 
-## 🛠️ Tech Stack
+## 🧰 Languages & Tools
 
-### Languages
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=4169E1)
+<p align="center">
 
-### Machine Learning / Data Science
-![PyTorch](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-informational?style=flat&logo=scikitlearn&color=F7931E)
-![Pandas](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&color=150458)
-![NumPy](https://img.shields.io/badge/Data-NumPy-informational?style=flat&logo=numpy&color=013243)
-![OpenCV](https://img.shields.io/badge/CV-OpenCV-informational?style=flat&logo=opencv&color=5C3EE8)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools / Frameworks
-![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624)
-![LaTeX](https://img.shields.io/badge/Docs-LaTeX-informational?style=flat&logo=latex&color=008080)
-![Excel](https://img.shields.io/badge/Data-Excel-informational?style=flat&logo=microsoft-excel&color=217346)
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</p>
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Liu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michael-liu-522804366/)
+<p align="center">
 
-[![Website](https://img.shields.io/badge/Website-michaelliuml.ca-black?style=flat&logo=googlechrome)](https://www.michaelliuml.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-liu-522804366/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.michaelliuml.ca)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m529liu@uwaterloo.ca)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:m529liu@uwaterloo.ca)
+</p>
