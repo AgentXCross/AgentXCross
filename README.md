@@ -1,8 +1,6 @@
 # 👋 Hey there, I'm Michael!
 
-### 📚 CS @ University of Waterloo  
-### 🧬 ML Research Assistant @ SickKids  
-### 🏃‍♂️ Varsity Cross-Country Athlete @ University of Waterloo  
+### 📚 CS & Varsity XC @ University of Waterloo   
 
 ## My Interests
 
