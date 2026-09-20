@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Michael!
+# 👋 Hey there, I'm Michael! 🖤💛
 
 I'm a 2A BCS Computer Science student at the University of Waterloo, primarily interested in Machine Learning and Computer Vision. I recently completed my first co-op term at the Hospital for Sick Children (SickKids), where I worked as a Machine Learning Research Assistant on Reaction Generative-Flow Networks (RGFNs). 
 
